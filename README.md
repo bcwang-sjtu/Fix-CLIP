@@ -1,5 +1,5 @@
 # Fix-CLIP
-This repository is the official implementation of ix-CLIP
+This repository is the official implementation of Fix-CLIP
 
 **Fix-CLIP: Dual-Branch Hierarchical Contrastive Learning via Synthetic Captions for Better Understanding of Long Text**\
 [Bingchao Wang](https://bcwang-sjtu.github.io), [Zhiwei Ning](), [Jianyu Ding](), [Xuanang Gao](), [JIE YANG](), [Wei Liu ]()
